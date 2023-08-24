@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../lecture 7 tasks"
+		},
+		{
+			"path": "../template 3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "template 2"
+	}
+}
